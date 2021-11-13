@@ -1,0 +1,11 @@
+#search-input {
+  max-width: 512px
+}
+
+.fa:hover {
+  transform: scale(1.1, 1.1)
+}
+
+.color-icon {
+  color: #277eff
+}
